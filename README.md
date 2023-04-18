@@ -93,6 +93,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/vuluu2k/vuluu2k/blob/output/snake.svg" alt="Snake animation" />
+<img src="./assets/images/snake.svg" alt="Snake animation" />
 
 ###
