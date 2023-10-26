@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Vũ Lưu from Vietnamese<br><br>- 🔭 I’m working as a Developers<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I playing game or read comic</p>
+<p align="left">I'm Vũ Lưu from Vietnamese<br><br>- 🔭 I’m working as a FullStack Developer<br>- 📚 I'm currently studying Machine Learning<br>- ⚡ In my free time I playing game or read comic</p>
 
 ###
 
