@@ -93,6 +93,6 @@
 
 ###
 
-<img src="https://github.com/vuluu2k/vuluu2k/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/vuluu2k/vuluu2k/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
