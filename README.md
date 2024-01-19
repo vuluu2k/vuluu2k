@@ -1,7 +1,7 @@
 ![Header](./images/github-header-image.png)
 
 ###
-  <table>
+  <table border="0">
     <tr>
       <td>
         <div align="left">
