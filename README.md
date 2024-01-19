@@ -1,29 +1,35 @@
 ![Header](./images/github-header-image.png)
 
 ###
-<div style="display:flex; justify-content: space-between; align-items: center;"><!-- .element: style="display: flex; flex-direction: row; justify-content: center; align-items: center;" -->
-  <div>
-    <h3>👩‍💻  About Me</h3>
-    <p>
-      - 🔭 I’m working as a FullStack Developer<br>
-      - 📚 I'm currently studying Machine Learning<br>
-      - ⚡ In my free time I play sport or read book, study new technology,...
-    </p>
-    <div style="display:flex; gap: 8px;">
-      <a href="https://www.linkedin.com/in/vuluu2k" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-      </a>
-      <a href="https://www.youtube.com/channel/UCGcKQnR1sNqs8E_S0Atng4w" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-      </a>
-      <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-    </div>
-  </div>
+  <table>
+    <tr>
+      <td>
+        <div align="left">
+          <h3>👩‍💻  About Me</h3>
+          <p>
+            - 🔭 I’m working as a FullStack Developer<br>
+            - 📚 I'm currently studying Machine Learning<br>
+            - ⚡ In my free time I play sport or read book, study new technology,...
+          </p>
+          <div style="display:flex; gap: 8px;">
+            <a href="https://www.linkedin.com/in/vuluu2k" target="_blank">
+              <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+            </a>
+            <a href="https://www.youtube.com/channel/UCGcKQnR1sNqs8E_S0Atng4w" target="_blank">
+              <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+            </a>
+            <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+          </div>
+        </div>
+      </td>
+      <td>
+        <div align="right">
+          <img height="200px" style="border-radius: 8px;" src="./images/keyboard.gif"  />
+        </div>
+      </td>
+    </tr>
+  </table>
 
-  <div>
-    <img height="200px" style="border-radius: 8px;" src="./images/keyboard.gif"  /> <!-- .element: style="border-radius: 8px;" -->
-  </div>
-</div>
 
 ###
 <h3 align="left">🛠 Language and tools</h3>
