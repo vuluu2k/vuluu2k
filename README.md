@@ -1,43 +1,32 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+![Header](./images/github-header-image.png)
+
+###
+<div style="display:flex; justify-content: space-between; align-items: center;">
+  <div>
+    <h3>👩‍💻  About Me</h3>
+    <p>
+      - 🔭 I’m working as a FullStack Developer<br>
+      - 📚 I'm currently studying Machine Learning<br>
+      - ⚡ In my free time I play sport or read book, study new technology,...
+    </p>
+    <div style="display:flex; gap: 8px;">
+      <a href="https://www.linkedin.com/in/vuluu2k" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+      </a>
+      <a href="https://www.youtube.com/channel/UCGcKQnR1sNqs8E_S0Atng4w" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+      </a>
+      <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    </div>
+  </div>
+
+  <div>
+    <img height="100%" style="border-radius: 8px;" src="./images/keyboard.gif"  />
+  </div>
 </div>
 
 ###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/vuluu2k" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCGcKQnR1sNqs8E_S0Atng4w" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vuluu2k.vuluu2k&"  />
-</div>
-
-###
-
-<h1 align="center">Hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Vũ Lưu from Vietnamese<br><br>- 🔭 I’m working as a FullStack Developer<br>- 📚 I'm currently studying Machine Learning<br>- ⚡ In my free time I playing game or read comic</p>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" width="52" alt="docker logo"  />
@@ -96,3 +85,7 @@
 <img src="https://github.com/vuluu2k/vuluu2k/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=vuluu2k.vuluu2k&"  />
+</div>
