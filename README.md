@@ -1,7 +1,7 @@
 ![Header](./images/github-header-image.png)
 
 ###
-<div style="display:flex; justify-content: space-between; align-items: center;">
+<div style="display:flex; justify-content: space-between; align-items: center;"><!-- .element: style="display: flex; flex-direction: row; justify-content: center; align-items: center;" -->
   <div>
     <h3>👩‍💻  About Me</h3>
     <p>
@@ -21,7 +21,7 @@
   </div>
 
   <div>
-    <img height="100%" style="border-radius: 8px;" src="./images/keyboard.gif"  />
+    <img height="200px" style="border-radius: 8px;" src="./images/keyboard.gif"  /> <!-- .element: style="border-radius: 8px;" -->
   </div>
 </div>
 
