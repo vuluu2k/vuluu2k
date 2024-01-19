@@ -1,4 +1,14 @@
 ![Header](./images/github-header-image.png)
+<style>
+  table {
+    border-collapse: collapse;
+  }
+
+  table, th, td {
+    border: none;
+  }
+</style>
+
 
 ###
   <table border="0">
