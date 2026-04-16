@@ -19,59 +19,59 @@
   <a href="mailto:vuluu040320@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=vuluu2k&style=for-the-badge&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=vuluu2k&style=for-the-badge&color=blueviolet" alt="Lượt xem" />
 </p>
 
 ---
 
-## 👋 &nbsp;Hi there, I'm Vũ
+## 👋 &nbsp;Xin chào, mình là Vũ
 
 <table border="0">
   <tr>
     <td width="62%" valign="top">
       <blockquote>
-        <em>"First, solve the problem. Then, write the code."</em>
+        <em>"Giải quyết vấn đề trước, viết code sau."</em>
       </blockquote>
       <ul>
-        <li>🔭 &nbsp;<b>Full-Stack Developer</b> shipping web, mobile & AI agent tools</li>
-        <li>📚 &nbsp;Currently exploring <b>Machine Learning</b> & <b>LLM agents</b></li>
-        <li>🛠️ &nbsp;Building with <b>TypeScript · Vue · React · Elixir · Python</b></li>
-        <li>🏸 &nbsp;Off-hours: badminton, books, and new tech</li>
-        <li>📬 &nbsp;Reach me at <a href="mailto:vuluu040320@gmail.com">vuluu040320@gmail.com</a></li>
+        <li>🔭 &nbsp;<b>Lập trình viên Full-Stack</b> — web, mobile & các công cụ AI agent</li>
+        <li>📚 &nbsp;Đang tìm hiểu sâu về <b>Machine Learning</b> & <b>LLM agents</b></li>
+        <li>🛠️ &nbsp;Làm việc với <b>TypeScript · Vue · React · Elixir · Python</b></li>
+        <li>🏸 &nbsp;Ngoài giờ: cầu lông, đọc sách và khám phá công nghệ mới</li>
+        <li>📬 &nbsp;Liên hệ: <a href="mailto:vuluu040320@gmail.com">vuluu040320@gmail.com</a></li>
       </ul>
     </td>
     <td width="38%" align="center" valign="middle">
-      <img height="200" style="border-radius: 12px;" src="./images/keyboard.gif" alt="Coding animation" />
+      <img height="200" style="border-radius: 12px;" src="./images/keyboard.gif" alt="Hoạt hình coding" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 📈 &nbsp;At a Glance
+## 📈 &nbsp;Tổng quan
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Public%20Repos-85-2ea44f?style=for-the-badge&logo=github" alt="repos" />
-  <img src="https://img.shields.io/badge/Total%20Stars-63-yellow?style=for-the-badge&logo=apachespark&logoColor=white" alt="stars" />
+  <img src="https://img.shields.io/badge/Repo%20c%C3%B4ng%20khai-85-2ea44f?style=for-the-badge&logo=github" alt="repos" />
+  <img src="https://img.shields.io/badge/T%E1%BB%95ng%20sao-63-yellow?style=for-the-badge&logo=apachespark&logoColor=white" alt="stars" />
   <img src="https://img.shields.io/badge/Forks-6-blue?style=for-the-badge&logo=git&logoColor=white" alt="forks" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vuluu2k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuluu2k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vuluu2k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=vi" alt="Thống kê GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuluu2k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=vi" alt="Ngôn ngữ sử dụng nhiều nhất" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vuluu2k&theme=tokyonight&hide_border=true&border_radius=5" alt="Streak stats" />
+  <img src="https://streak-stats.demolab.com?user=vuluu2k&theme=tokyonight&hide_border=true&border_radius=5&locale=vi" alt="Chuỗi commit" />
 </p>
 
 ---
 
-## 🧠 &nbsp;Tech Stack
+## 🧠 &nbsp;Công nghệ sử dụng
 
 <table>
   <tr>
-    <td align="center" width="140"><b>Languages</b></td>
+    <td align="center" width="160"><b>Ngôn ngữ</b></td>
     <td>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -83,7 +83,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Frameworks</b></td>
+    <td align="center"><b>Framework</b></td>
     <td>
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -96,7 +96,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Databases</b></td>
+    <td align="center"><b>Cơ sở dữ liệu</b></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -106,7 +106,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>DevOps / Tools</b></td>
+    <td align="center"><b>DevOps / Công cụ</b></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -120,81 +120,81 @@
 
 ---
 
-## 📊 &nbsp;Language Distribution
+## 📊 &nbsp;Phân bổ ngôn ngữ
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-29%20repos%20%7C%2034.1%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-10%20repos%20%7C%2011.8%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-8%20repos%20%7C%209.4%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vue-8%20repos%20%7C%209.4%25-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
-  <img src="https://img.shields.io/badge/HTML-6%20repos%20%7C%207.1%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/Elixir-4%20repos%20%7C%204.7%25-4B275F?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir" />
-  <img src="https://img.shields.io/badge/Go-2%20repos%20%7C%202.4%25-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Rust-2%20repos%20%7C%202.4%25-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/JavaScript-29%20repo%20%7C%2034.1%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-10%20repo%20%7C%2011.8%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-8%20repo%20%7C%209.4%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vue-8%20repo%20%7C%209.4%25-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/HTML-6%20repo%20%7C%207.1%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/Elixir-4%20repo%20%7C%204.7%25-4B275F?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir" />
+  <img src="https://img.shields.io/badge/Go-2%20repo%20%7C%202.4%25-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-2%20repo%20%7C%202.4%25-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
 </p>
 
 ---
 
-## 🔥 &nbsp;Featured Projects
+## 🔥 &nbsp;Dự án nổi bật
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🔹 <a href="https://github.com/vuluu2k/snappy-ship-component">snappy-ship-component</a></h3>
-      <p>Some Component of snappy mobile app</p>
+      <p>Một số component cho ứng dụng mobile Snappy</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" alt="TypeScript" />
         <img src="https://img.shields.io/github/stars/vuluu2k/snappy-ship-component?style=flat-square&label=%E2%98%85&color=yellow" alt="stars" />
-        <img src="https://img.shields.io/badge/updated-2022--09--28-blue?style=flat-square" alt="updated" />
+        <img src="https://img.shields.io/badge/c%E1%BA%ADp%20nh%E1%BA%ADt-2022--09--28-blue?style=flat-square" alt="cập nhật" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>🔹 <a href="https://github.com/vuluu2k/knowledge_mcp">knowledge_mcp</a></h3>
-      <p>Build knowledge of yourself with ai agent</p>
+      <p>Xây dựng kho kiến thức cá nhân với AI agent</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" alt="TypeScript" />
         <img src="https://img.shields.io/github/stars/vuluu2k/knowledge_mcp?style=flat-square&label=%E2%98%85&color=yellow" alt="stars" />
-        <img src="https://img.shields.io/badge/updated-2026--03--24-blue?style=flat-square" alt="updated" />
+        <img src="https://img.shields.io/badge/c%E1%BA%ADp%20nh%E1%BA%ADt-2026--03--24-blue?style=flat-square" alt="cập nhật" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🔹 <a href="https://github.com/vuluu2k/snappy-lib">snappy-lib</a></h3>
-      <p>Library of snappy express</p>
+      <p>Thư viện dành cho Snappy Express</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square" alt="JavaScript" />
         <img src="https://img.shields.io/github/stars/vuluu2k/snappy-lib?style=flat-square&label=%E2%98%85&color=yellow" alt="stars" />
-        <img src="https://img.shields.io/badge/updated-2023--10--19-blue?style=flat-square" alt="updated" />
+        <img src="https://img.shields.io/badge/c%E1%BA%ADp%20nh%E1%BA%ADt-2023--10--19-blue?style=flat-square" alt="cập nhật" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>🔹 <a href="https://github.com/vuluu2k/color-picker-vue3">color-picker-vue3</a></h3>
-      <p>Public template vue3 with color picker same as editorX</p>
+      <p>Template Vue3 với tính năng chọn màu giống EditorX</p>
       <p>
         <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square" alt="Vue" />
         <img src="https://img.shields.io/github/stars/vuluu2k/color-picker-vue3?style=flat-square&label=%E2%98%85&color=yellow" alt="stars" />
-        <img src="https://img.shields.io/badge/updated-2023--10--17-blue?style=flat-square" alt="updated" />
+        <img src="https://img.shields.io/badge/c%E1%BA%ADp%20nh%E1%BA%ADt-2023--10--17-blue?style=flat-square" alt="cập nhật" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🔹 <a href="https://github.com/vuluu2k/vuluu2k">vuluu2k</a></h3>
-      <p>This readme.md file for profile of me in github</p>
+      <p>Repo README profile GitHub cá nhân</p>
       <p>
         <img src="https://img.shields.io/badge/Markdown-586069?style=flat-square" alt="Markdown" />
         <img src="https://img.shields.io/github/stars/vuluu2k/vuluu2k?style=flat-square&label=%E2%98%85&color=yellow" alt="stars" />
-        <img src="https://img.shields.io/badge/updated-2026--04--16-blue?style=flat-square" alt="updated" />
+        <img src="https://img.shields.io/badge/c%E1%BA%ADp%20nh%E1%BA%ADt-2026--04--16-blue?style=flat-square" alt="cập nhật" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>🔹 <a href="https://github.com/vuluu2k/skills">skills</a></h3>
-      <p>Skills built from my experience and reference from other project</p>
+      <p>Tập hợp các skill đúc kết từ kinh nghiệm và tham khảo</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python" />
         <img src="https://img.shields.io/github/stars/vuluu2k/skills?style=flat-square&label=%E2%98%85&color=yellow" alt="stars" />
-        <img src="https://img.shields.io/badge/updated-2026--03--31-blue?style=flat-square" alt="updated" />
+        <img src="https://img.shields.io/badge/c%E1%BA%ADp%20nh%E1%BA%ADt-2026--03--31-blue?style=flat-square" alt="cập nhật" />
       </p>
     </td>
   </tr>
@@ -202,66 +202,66 @@
 
 ---
 
-## 🚀 &nbsp;Recently Active
+## 🚀 &nbsp;Hoạt động gần đây
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🔹 <a href="https://github.com/vuluu2k/vuluu2k">vuluu2k</a></h3>
-      <p>This readme.md file for profile of me in github</p>
+      <p>Repo README profile GitHub cá nhân</p>
       <p>
         <img src="https://img.shields.io/badge/Markdown-586069?style=flat-square" alt="Markdown" />
         <img src="https://img.shields.io/github/stars/vuluu2k/vuluu2k?style=flat-square&label=%E2%98%85&color=yellow" alt="stars" />
-        <img src="https://img.shields.io/badge/updated-2026--04--16-blue?style=flat-square" alt="updated" />
+        <img src="https://img.shields.io/badge/c%E1%BA%ADp%20nh%E1%BA%ADt-2026--04--16-blue?style=flat-square" alt="cập nhật" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>🔹 <a href="https://github.com/vuluu2k/shared_knowledge_mcp">shared_knowledge_mcp</a></h3>
-      <p>Build shared knowledge mcp for builderx_api and builderx_spa</p>
+      <p>Xây dựng shared knowledge MCP cho builderx_api và builderx_spa</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" alt="TypeScript" />
         <img src="https://img.shields.io/github/stars/vuluu2k/shared_knowledge_mcp?style=flat-square&label=%E2%98%85&color=yellow" alt="stars" />
-        <img src="https://img.shields.io/badge/updated-2026--04--08-blue?style=flat-square" alt="updated" />
+        <img src="https://img.shields.io/badge/c%E1%BA%ADp%20nh%E1%BA%ADt-2026--04--08-blue?style=flat-square" alt="cập nhật" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🔹 <a href="https://github.com/vuluu2k/claude-gh-actions">claude-gh-actions</a></h3>
-      <p>Build gh actions for claude code</p>
+      <p>Xây dựng GitHub Actions cho Claude Code</p>
       <p>
         <img src="https://img.shields.io/badge/Shell-89E051?style=flat-square" alt="Shell" />
         <img src="https://img.shields.io/github/stars/vuluu2k/claude-gh-actions?style=flat-square&label=%E2%98%85&color=yellow" alt="stars" />
-        <img src="https://img.shields.io/badge/updated-2026--04--04-blue?style=flat-square" alt="updated" />
+        <img src="https://img.shields.io/badge/c%E1%BA%ADp%20nh%E1%BA%ADt-2026--04--04-blue?style=flat-square" alt="cập nhật" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>🔹 <a href="https://github.com/vuluu2k/skills">skills</a></h3>
-      <p>Skills built from my experience and reference from other project</p>
+      <p>Tập hợp các skill đúc kết từ kinh nghiệm và tham khảo</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python" />
         <img src="https://img.shields.io/github/stars/vuluu2k/skills?style=flat-square&label=%E2%98%85&color=yellow" alt="stars" />
-        <img src="https://img.shields.io/badge/updated-2026--03--31-blue?style=flat-square" alt="updated" />
+        <img src="https://img.shields.io/badge/c%E1%BA%ADp%20nh%E1%BA%ADt-2026--03--31-blue?style=flat-square" alt="cập nhật" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🔹 <a href="https://github.com/vuluu2k/knowledge_mcp">knowledge_mcp</a></h3>
-      <p>Build knowledge of yourself with ai agent</p>
+      <p>Xây dựng kho kiến thức cá nhân với AI agent</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" alt="TypeScript" />
         <img src="https://img.shields.io/github/stars/vuluu2k/knowledge_mcp?style=flat-square&label=%E2%98%85&color=yellow" alt="stars" />
-        <img src="https://img.shields.io/badge/updated-2026--03--24-blue?style=flat-square" alt="updated" />
+        <img src="https://img.shields.io/badge/c%E1%BA%ADp%20nh%E1%BA%ADt-2026--03--24-blue?style=flat-square" alt="cập nhật" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>🔹 <a href="https://github.com/vuluu2k/webcake_cms_mcp">webcake_cms_mcp</a></h3>
-      <p>MCP server cms app of https://webcake.io</p>
+      <p>MCP server cho app CMS của webcake.io</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square" alt="JavaScript" />
         <img src="https://img.shields.io/github/stars/vuluu2k/webcake_cms_mcp?style=flat-square&label=%E2%98%85&color=yellow" alt="stars" />
-        <img src="https://img.shields.io/badge/updated-2026--03--21-blue?style=flat-square" alt="updated" />
+        <img src="https://img.shields.io/badge/c%E1%BA%ADp%20nh%E1%BA%ADt-2026--03--21-blue?style=flat-square" alt="cập nhật" />
       </p>
     </td>
   </tr>
@@ -269,7 +269,7 @@
 
 ---
 
-## 🐍 &nbsp;Contribution Graph
+## 🐍 &nbsp;Biểu đồ đóng góp
 
 <p align="center">
   <img src="https://github.com/vuluu2k/vuluu2k/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -278,5 +278,5 @@
 ---
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/vuluu2k">vuluu2k</a> — thanks for stopping by!</i>
+  <i>⭐️ Từ <a href="https://github.com/vuluu2k">vuluu2k</a> — cảm ơn bạn đã ghé thăm!</i>
 </p>
